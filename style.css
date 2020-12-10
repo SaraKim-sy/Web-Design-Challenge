@@ -1,7 +1,4 @@
-img {
-    max-width: 100%;
-  }
-
+/* headlines styling*/
 h1, h2, h3{
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: rgb(74, 170, 165);
@@ -44,6 +41,7 @@ a.navbar-brand{
     margin: 0;
 }
 
+/* body styling*/
 body {
     background-color: rgb(237, 237, 237);
 }
@@ -63,6 +61,16 @@ p {
     margin-left: 20px;
     padding: 30px;
     background-color: white;
+}
+
+.space {
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+
+/* images styling*/ 
+img {
+  max-width: 100%;
 }
 
 .selected {
