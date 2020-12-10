@@ -1,0 +1,89 @@
+img {
+    max-width: 100%;
+  }
+
+h1, h2, h3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(74, 170, 165);
+  }
+  
+  h1{
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  h2{
+    font-size: 22px;
+    font-weight: bold;
+  }
+  
+  h3{
+    font-size: 16px;
+    font-weight: bold;
+  }
+  
+
+/* navbar styling*/
+a.navbar-brand{
+    margin-left: 10px;
+    padding: 8px;
+    background-color: rgb(74, 170, 165); 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.navbar{
+    padding-top:0px;
+    padding-bottom: 0px;
+    padding-right:40px;
+}
+
+.dropdown-menu {
+    margin: 0;
+}
+
+body {
+    background-color: rgb(237, 237, 237);
+}
+
+.summary {
+    margin-top: 40px;
+    padding: 30px;
+    background-color: white;
+}
+
+p {
+    color: grey;
+}
+
+.visualizations {
+    margin-top: 40px;
+    margin-left: 20px;
+    padding: 30px;
+    background-color: white;
+}
+
+/*footer copyright styling*/
+.copyright {
+    width:100%;
+    bottom:0;
+    background-color: gray;
+    z-index:0;
+    font-size: 12px;
+    color: white;
+    text-align: center;
+    padding: 5px;
+    margin: 0px;
+  }
+
+/* small screen */
+@media(max-width:767px){
+    .navbar-expand-lg{
+        background-color: rgb(74, 170, 165);
+    }
+
+    body {
+        background-color: white;
+    }
+}
