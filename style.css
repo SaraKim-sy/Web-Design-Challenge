@@ -27,7 +27,7 @@ h1, h2, h3{
 a.navbar-brand{
     margin-left: 10px;
     padding: 8px;
-    background-color: rgb(74, 170, 165); 
+    background-color: rgb(74, 170, 165);
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 22px;
     font-weight: bold;
@@ -62,6 +62,10 @@ p {
     margin-left: 20px;
     padding: 30px;
     background-color: white;
+}
+
+.selected {
+  border: rgb(74, 170, 165) 2px solid;
 }
 
 /*footer copyright styling*/
