@@ -5,15 +5,15 @@ Find the completed Latitude Web Visualization here: [Web Visualization](https://
 
 ## Background
 
-Data is more powerful when we share it with others! This project is to create a dashbaord showing the analysis using HTML, CSS, and Bootstrap.
+Data is more powerful when we share it with others! This project is to create a dashbaord showing the weather analysis using HTML, CSS, and Bootstrap.
 
 ![Images/landingResize.png](Images/landingResize.png)
 
 ## Latitude - Latitude Analysis Dashboard with Attitude
 
-For this homework we'll be creating a visualization dashboard website using visualizations we've created in a past assignment. Specifically, we'll be plotting [weather data](Resources/cities.csv).
+In this project, a visualization dashboard website was created using visualizations that were created in a past [repository](https://github.com/SaraKim-sy/Python-API-challenge). Specifically, [weather data](Resources/cities.csv) will be plotted.
 
-In building this dashboard, we'll create individual pages for each plot and a means by which we can navigate between them. These pages will contain the visualizations and their corresponding explanations. We'll also have a landing page, a page where we can see a comparison of all of the plots, and another page where we can view the data used to build them.
+In building this dashboard, individual pages for each plot and a means by which we can navigate between them were created. These pages will contain the visualizations and their corresponding explanations. The website has a landing page, a page where we can see a comparison of all of the plots, and another page where we can view the data used to build them.
 
 ### About the website
 
@@ -49,7 +49,7 @@ The website consists of 7 pages total, including:
 
 ### Screenshots
 
-This section contains screenshots of each page that must be built, at varying screen widths. These are a guide; you can meet the requirements without having the pages look exactly like the below images.
+This section contains screenshots of each page that was built, at varying screen widths. 
 
 #### <a id="landing-page"></a>Landing page
 
