@@ -1,4 +1,7 @@
-# Web-Design-Challenge - Web Visualization Dashboard (Latitude)
+# Web-Design-Challenge
+## Web Visualization Dashboard (Latitude)
+
+Find the completed Latitude Web Visualization here: [Web Visualization](https://sarakim-sy.github.io/web-design-challenge)
 
 ## Background
 
